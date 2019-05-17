@@ -1,1 +1,1 @@
-gcc hello.c -o hello_exec
+gcc hello.c -o hello
